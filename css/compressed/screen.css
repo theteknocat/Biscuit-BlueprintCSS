@@ -34,7 +34,7 @@ content:"";
 }
 
 blockquote,q {
-quotes:;
+quotes: "" "";
 }
 
 a img {
@@ -147,7 +147,7 @@ margin:1.5em 0;
 }
 
 pre,code,tt {
-font:1em 'andale mono', monotype.com, 'lucida console', monospace;
+font:1em 'andale mono', 'monotype.com', 'lucida console', monospace;
 line-height:1.5;
 }
 
@@ -167,7 +167,8 @@ border-bottom:1px solid #ddd;
 }
 
 th,td {
-padding:4px 10px 4px 0;
+padding:5px;
+vertical-align: top;
 }
 
 tfoot {

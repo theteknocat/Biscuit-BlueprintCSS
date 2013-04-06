@@ -1,0 +1,4 @@
+name = "BluePrintCss"
+description = "Provides Blue Print CSS files for use in theme."
+version = "1.0"
+is_global = 1
